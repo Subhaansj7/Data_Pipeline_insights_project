@@ -1,7 +1,7 @@
 # Data_Pipeline_insights_project
 Formula 1 Data Pipeline and Insights Project
 
-Developed a comprehensive data pipeline leveraging the Ergast API and Azure cloud platform to analyze Formula 1 data. Utilized Azure Data Lake Storage (ADLS) for raw and processed data layers and Databricks for computing and data transformations. Implemented data ingestion, transformations, and analysis using PySpark, Spark SQL, and Python. Managed workflows through Azure Data Factory. Key achievements include deriving insights on dominant drivers and teams, and visualizing results using Databricks dashboards.
+Developed a comprehensive data pipeline leveraging the Ergast API and Azure cloud platform to analyze Formula 1 data. Utilized Azure Data Lake Storage (ADLS) for raw and processed data layers and Databricks for computing and data transformations. Implemented data ingestion, transformations, and analysis using PySpark, Spark SQL, and Python. Managed workflows through Azure Data Factory. Key achievements include deriving insights on dominant drivers and teams, and visualizing results using Databricks dashboards. \n
 
 Technologies Used:
 
